@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0104e02a-ad23-48eb-b3d2-797de9dae7ef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/getOneImageArea2.py" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/image_processing.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/getOneImageArea.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/videoGet.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cutVideoToFrames.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/slidingWindow.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/svmToRecongnizeNumber.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/get720pVideo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/watersheld_use.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/setVideoAndGetVideo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ordinaryTest.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/lbpValueAnalysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/grayCooMatValueAnalysis.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/detectDistance.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/testpycharm.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/detectDistanceUS100.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/graybgrhsv_lbp_pca_svm.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/graybgrhsv_lbp_svm.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/get_new_sampel.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/trackbarToGetParam.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/getOneImageArea2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/gabor_svm.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LBP_uniform_SVM.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/textureToGetImageArea.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/LBP_origin_SVM.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/new_trackbarToGetParam.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/cutPictureToWindows.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/PCF8591.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/use_for_raspberry.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/load_model_test_optim.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/load_model_test.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1OUxM3XxaccmUoDsn3TquHeElsV" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.use_for_raspberry">
+    <configuration name="cutPictureToWindows" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cutPictureToWindows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graybgrhsv_lbp_pca_svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graybgrhsv_lbp_pca_svm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_model_test_optim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/load_model_test_optim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ordinaryTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ordinaryTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_for_raspberry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pycharm_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_for_raspberry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.use_for_raspberry" />
+        <item itemvalue="Python.load_model_test_optim" />
+        <item itemvalue="Python.ordinaryTest" />
+        <item itemvalue="Python.graybgrhsv_lbp_pca_svm" />
+        <item itemvalue="Python.cutPictureToWindows" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0104e02a-ad23-48eb-b3d2-797de9dae7ef" name="Default Changelist" comment="" />
+      <created>1564045925360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564045925360</updated>
+      <workItem from="1564045934080" duration="3971000" />
+      <workItem from="1564052113295" duration="11542000" />
+      <workItem from="1564454292189" duration="1817000" />
+      <workItem from="1564715672806" duration="870000" />
+      <workItem from="1565076726075" duration="13049000" />
+      <workItem from="1565159887148" duration="41311000" />
+      <workItem from="1565525112181" duration="6997000" />
+      <workItem from="1565578665377" duration="8343000" />
+      <workItem from="1565663482166" duration="1489000" />
+      <workItem from="1565749941344" duration="1845000" />
+      <workItem from="1566130330793" duration="1791000" />
+      <workItem from="1566179788633" duration="5690000" />
+      <workItem from="1566284382578" duration="4272000" />
+      <workItem from="1566368025512" duration="1548000" />
+      <workItem from="1566457693292" duration="28120000" />
+      <workItem from="1566741098725" duration="625000" />
+      <workItem from="1566783732337" duration="9495000" />
+      <workItem from="1566871296973" duration="19415000" />
+      <workItem from="1566896631904" duration="3602000" />
+      <workItem from="1566957950535" duration="22275000" />
+      <workItem from="1567043087108" duration="8266000" />
+      <workItem from="1567062830874" duration="1369000" />
+      <workItem from="1567064250370" duration="8491000" />
+      <workItem from="1567145747721" duration="1950000" />
+      <workItem from="1568599022355" duration="2374000" />
+      <workItem from="1568685052521" duration="14760000" />
+      <workItem from="1568772313441" duration="11020000" />
+      <workItem from="1568875233098" duration="7696000" />
+      <workItem from="1569154591372" duration="646000" />
+      <workItem from="1569289693091" duration="5406000" />
+      <workItem from="1569377124282" duration="18218000" />
+      <workItem from="1569463719010" duration="6196000" />
+      <workItem from="1569549221460" duration="11305000" />
+      <workItem from="1569747071429" duration="1895000" />
+      <workItem from="1569811127648" duration="4048000" />
+      <workItem from="1569834574798" duration="1798000" />
+      <workItem from="1570174459023" duration="3315000" />
+      <workItem from="1570179408358" duration="2722000" />
+      <workItem from="1570500678933" duration="66989000" />
+      <workItem from="1571039057534" duration="4823000" />
+      <workItem from="1571196993959" duration="16221000" />
+      <workItem from="1571233759934" duration="356000" />
+      <workItem from="1571301138100" duration="650000" />
+      <workItem from="1571623111503" duration="13458000" />
+      <workItem from="1571733288781" duration="4729000" />
+      <workItem from="1571831483668" duration="1451000" />
+      <workItem from="1571832975174" duration="57000" />
+      <workItem from="1571833074300" duration="106000" />
+      <workItem from="1571833222682" duration="6262000" />
+      <workItem from="1571925103251" duration="3174000" />
+      <workItem from="1571967685214" duration="14105000" />
+      <workItem from="1572070137840" duration="9045000" />
+      <workItem from="1572228650239" duration="3644000" />
+      <workItem from="1572326520985" duration="2564000" />
+      <workItem from="1572401940996" duration="179000" />
+      <workItem from="1572491397764" duration="10381000" />
+      <workItem from="1572528925848" duration="2219000" />
+      <workItem from="1572594094329" duration="6697000" />
+      <workItem from="1572762901038" duration="2013000" />
+      <workItem from="1572778573418" duration="24239000" />
+      <workItem from="1572876783823" duration="25281000" />
+      <workItem from="1572966456710" duration="13662000" />
+      <workItem from="1573095420291" duration="12991000" />
+      <workItem from="1573179706693" duration="4803000" />
+      <workItem from="1573196386688" duration="5597000" />
+      <workItem from="1573291470608" duration="1206000" />
+      <workItem from="1573306679547" duration="1586000" />
+      <workItem from="1573438882375" duration="24845000" />
+      <workItem from="1573523967739" duration="6365000" />
+      <workItem from="1573612355769" duration="1370000" />
+      <workItem from="1573633366090" duration="37477000" />
+      <workItem from="1573998238651" duration="19437000" />
+      <workItem from="1574078888887" duration="19882000" />
+      <workItem from="1574151590252" duration="186000" />
+      <workItem from="1574152967987" duration="8949000" />
+      <workItem from="1574217162514" duration="13615000" />
+      <workItem from="1574241442246" duration="7882000" />
+      <workItem from="1574316832401" duration="12686000" />
+      <workItem from="1574386129862" duration="20098000" />
+      <workItem from="1574583070862" duration="58568000" />
+      <workItem from="1574819717317" duration="5391000" />
+      <workItem from="1574837643384" duration="3715000" />
+      <workItem from="1574842512829" duration="21110000" />
+      <workItem from="1574951770620" duration="18595000" />
+      <workItem from="1575100510989" duration="14320000" />
+      <workItem from="1575252334873" duration="35370000" />
+      <workItem from="1575357946166" duration="1943000" />
+      <workItem from="1575365093194" duration="9153000" />
+      <workItem from="1575424115610" duration="22530000" />
+      <workItem from="1575618511248" duration="4223000" />
+      <workItem from="1575855613726" duration="15685000" />
+      <workItem from="1575895779598" duration="3739000" />
+      <workItem from="1575942509893" duration="21998000" />
+      <workItem from="1575984038011" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pycharm_project$testpycharm.coverage" NAME="testpycharm Coverage Results" MODIFIED="1572529514704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$LBP_origin_SVM.coverage" NAME="LBP_origin_SVM Coverage Results" MODIFIED="1574086550766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$detectDistance.coverage" NAME="detectDistance Coverage Results" MODIFIED="1571042366595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$watersheld_use.coverage" NAME="watersheld_use Coverage Results" MODIFIED="1564065980616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$digits.coverage" NAME="digits Coverage Results" MODIFIED="1565362713932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Opencv/opencv-3.1.0版本/sources/samples/python" />
+    <SUITE FILE_PATH="coverage/pycharm_project$load_model_test.coverage" NAME="load_model_test Coverage Results" MODIFIED="1575371199640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$textureToGetImageArea.coverage" NAME="textureToGetImageArea Coverage Results" MODIFIED="1570630005833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$lbpValueAnalysis.coverage" NAME="lbpValueAnalysis Coverage Results" MODIFIED="1571990446293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$getOneImageArea.coverage" NAME="getOneImageArea Coverage Results" MODIFIED="1574668137848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$use_for_raspberry.coverage" NAME="use_for_raspberry Coverage Results" MODIFIED="1575970168994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$get_new_sampel.coverage" NAME="get_new_sampel Coverage Results" MODIFIED="1573806358606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$load_model_test_optim.coverage" NAME="load_model_test_optim Coverage Results" MODIFIED="1575951291316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$videoGet.coverage" NAME="videoGet Coverage Results" MODIFIED="1566458665337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$cutPictureToWindows.coverage" NAME="cutPictureToWindows Coverage Results" MODIFIED="1575463315941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$slidingWindow.coverage" NAME="slidingWindow Coverage Results" MODIFIED="1570783934627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$gabor_svm.coverage" NAME="gabor_svm Coverage Results" MODIFIED="1574130512028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$ordinaryTest.coverage" NAME="ordinaryTest Coverage Results" MODIFIED="1575949082569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$graybgrhsv_lbp_svm.coverage" NAME="graybgrhsv_lbp_svm Coverage Results" MODIFIED="1574165185871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$trackbarToGetParam.coverage" NAME="trackbarToGetParam Coverage Results" MODIFIED="1575293491883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$contours.coverage" NAME="contours Coverage Results" MODIFIED="1564057215705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Opencv/opencv/sources/samples/python" />
+    <SUITE FILE_PATH="coverage/pycharm_project$textureFeatureValueAnalysis.coverage" NAME="textureFeatureValueAnalysis Coverage Results" MODIFIED="1571831634367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$svmToRecongnizeNumber.coverage" NAME="svmToRecongnizeNumber Coverage Results" MODIFIED="1573008020068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$new_trackbarToGetParam.coverage" NAME="new_trackbarToGetParam Coverage Results" MODIFIED="1575293722837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$cutVideoToFrames.coverage" NAME="cutVideoToFrames Coverage Results" MODIFIED="1572229766815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$LBP_uniform_SVM.coverage" NAME="LBP_uniform_SVM Coverage Results" MODIFIED="1573484349262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$graybgrhsv_lbp_pca_svm.coverage" NAME="graybgrhsv_lbp_pca_svm Coverage Results" MODIFIED="1575863216046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$watershed.coverage" NAME="watershed Coverage Results" MODIFIED="1564057310132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Opencv/opencv/sources/samples/python" />
+    <SUITE FILE_PATH="coverage/pycharm_project$extractFeatureFromImages.coverage" NAME="extractFeatureFromImages Coverage Results" MODIFIED="1573183212224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$image_processing.coverage" NAME="image_processing Coverage Results" MODIFIED="1565077028773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pycharm_project$rgb_gray_hsi_svm.coverage" NAME="rgb_gray_hsi_svm Coverage Results" MODIFIED="1574148847928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
